@@ -1,0 +1,11 @@
+
+
+.header-top-wrapper {
+	height: 80px;
+	background-color: #76c7c1;
+	background-image: url('/images/ruler-header.png');
+	background-repeat: repeat-x;
+	background-position: bottom;
+	padding: 0px 172px;
+}
+
