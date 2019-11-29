@@ -29,7 +29,7 @@
       }
   
       this.boxClicked = function () {
-        console.log('boxClicked', this.width);
+        this.element.style.display='none';
       }
   
       this.draw = function () {
